@@ -127,8 +127,8 @@
 
 | Dataset                       | Download Link                                                | Description                                                  |
 |-------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
-| Faceforensics++               | [Download](https://github.com/ondyari/FaceForensics)         |                                                            |
-| CelebV                        | [Download](https://drive.google.com/file/d/1jQ6d76T5GQuvQH4dq8_Wq1T0cxvN0_xp/view) |                                                            |
+| Faceforensics++               | [Download](https://github.com/ondyari/FaceForensics)         |  FaceForensics++ is a forensics dataset consisting of 1000 original video sequences that have been manipulated with four automated face manipulation methods: Deepfakes, Face2Face, FaceSwap and NeuralTextures.                                           |
+| CelebV                        | [Download](https://drive.google.com/file/d/1jQ6d76T5GQuvQH4dq8_Wq1T0cxvN0_xp/view) |  CelebV-HQ contains 35,666 video clips with the resolution of 512x512 at least, involving 15,653 identities                                                      |
 | VoxCeleb                      | [Download](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/)  | A comprehensive audio-visual dataset for speaker recognition. |
 | VoxCeleb1                     | [Download](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html) | Over 100,000 utterances for 1,251 celebrities from YouTube. |
 | VoxCeleb2                     | [Download](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html) | Largest public audio-visual dataset for speaker recognition. |
